@@ -18,7 +18,7 @@ connect with me!
   </a>
 </p>
 
-### Current Build
+## Current Build
 
 project: Battry
 <a href="https://github.com/siddhantkuwar/battry-app">
@@ -50,7 +50,7 @@ currently reading: <https://psycnet.apa.org/record/2007-10372-002>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vercel&theme=dark" />
 </p>
 
-### cool little viz ↓
+## cool little viz ↓
 
 <p align="center">
   <picture>
