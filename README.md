@@ -51,7 +51,7 @@ interests:
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
 </p>
 
-<h4>Backend / Infra</h4>
+<h4>Backend/h4>
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,docker,linux,git&theme=dark" />
 </p>
