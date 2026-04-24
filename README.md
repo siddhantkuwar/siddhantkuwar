@@ -1,10 +1,34 @@
-## Building
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Siddhant%20Kuwar&fontAlign=50&fontAlignY=38&fontSize=48&desc=Building%20AI%20systems%20that%20notice%20what%20doesn't%20fit&descAlign=50&descAlignY=58&animation=fadeIn" alt="Siddhant Kuwar banner" />
+</p>
 
-Currently building systems around anomaly detection, backend infrastructure, and applied AI.
+## Current Build
 
-- Parallax: market anomaly detection for prediction markets
-- Battry: AI-assisted health/productivity system
-- Interests: ML infra, computer vision, backend systems, trading systems
+```yaml
+project: Battry
+focus:
+  - AI-assisted health and productivity systems
+  - backend architecture
+  - FastAPI + Python services
+  - event parsing and categorization
+  - lightweight ML inference
+
+learning:
+  - production backend patterns
+  - model training and deployment
+  - data pipelines
+  - system design
+  - clean product architecture
+
+interests:
+  - ML infrastructure
+  - computer vision
+  - backend systems
+  - applied AI
+  - trading systems
+
+direction: "Build useful systems first. Make them intelligent second."
+```
 
 ## GitHub Activity
 
@@ -46,4 +70,16 @@ Currently building systems around anomaly detection, backend infrastructure, and
 <h4>Frontend</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vercel&theme=dark" />
+</p>
+
+## Connect
+
+<p align="center">
+  <a href="mailto:skuwar@ucsd.edu">
+    <img src="https://img.shields.io/badge/Email-skuwar@ucsd.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/skuwar">
+    <img src="https://img.shields.io/badge/LinkedIn-Siddhant%20Kuwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
