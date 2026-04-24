@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Siddhant%20Kuwar&fontAlign=50&fontAlignY=38&fontSize=48&desc=Student&descAlign=50&descAlignY=58&animation=fadeIn" alt="Siddhant Kuwar banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Siddhant%20Kuwar&fontAlign=50&fontAlignY=38&fontSize=48&descAlign=50&descAlignY=58&animation=fadeIn" alt="Siddhant Kuwar banner" />
 </p>
 
 ## About
