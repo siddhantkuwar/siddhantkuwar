@@ -4,10 +4,12 @@
 
 ## Current Build
 
-project: Battry
+project: Battry   
+
 <a href="https://github.com/siddhantkuwar/battry-app">
   <img src="https://img.shields.io/badge/repo-view-0d1117?style=flat-square&logo=github&logoColor=white" />
 </a>
+
 I'm exploring whether burnout can be detected before it happens
 
 interests:
