@@ -6,6 +6,18 @@
 
 Hi! I'm Siddhant, I'm a 3rd year computer science student and I want to help computers see the world as well as find what doesn’t fit, then understand why. 
 
+connect with me!
+
+<p align="center">
+  <a href="mailto:skuwar@ucsd.edu">
+    <img src="https://img.shields.io/badge/Email-skuwar@ucsd.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/skuwar">
+    <img src="https://img.shields.io/badge/LinkedIn-Siddhant%20Kuwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ### Current Build
 
 project: Battry
@@ -15,24 +27,6 @@ project: Battry
 
 I'm exploring whether burnout can be detected before it happens,
 currently reading: <https://psycnet.apa.org/record/2007-10372-002>
-
-### cool little viz ↓
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantkuwar&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"
-    width="95%"
-    alt="GitHub contribution activity graph"
-  />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhantkuwar/siddhantkuwar/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddhantkuwar/siddhantkuwar/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man eating GitHub contributions" src="https://raw.githubusercontent.com/siddhantkuwar/siddhantkuwar/output/pacman-contribution-graph-dark.svg">
-  </picture>
-</p>
 
 ## Tech Stack
 
@@ -56,24 +50,13 @@ currently reading: <https://psycnet.apa.org/record/2007-10372-002>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vercel&theme=dark" />
 </p>
 
-## connect with me!
+### cool little viz ↓
 
 <p align="center">
-  <a href="mailto:skuwar@ucsd.edu">
-    <img src="https://img.shields.io/badge/Email-skuwar@ucsd.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/skuwar">
-    <img src="https://img.shields.io/badge/LinkedIn-Siddhant%20Kuwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhantkuwar/siddhantkuwar/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddhantkuwar/siddhantkuwar/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating GitHub contributions" src="https://raw.githubusercontent.com/siddhantkuwar/siddhantkuwar/output/pacman-contribution-graph-dark.svg">
+  </picture>
 </p>
 
-#### graph:
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantkuwar&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"
-    width="95%"
-    alt="GitHub contribution activity graph"
-  />
-</p>
