@@ -16,7 +16,7 @@ project: Battry
 I'm exploring whether burnout can be detected before it happens,
 currently reading: <https://psycnet.apa.org/record/2007-10372-002>
 
-### cool little contributions visualization
+### cool little viz ↓
 
 <p align="center">
   <img
@@ -46,7 +46,7 @@ currently reading: <https://psycnet.apa.org/record/2007-10372-002>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
 </p>
 
-<h4>Backend/h4>
+<h4>Backend</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,docker,linux,git&theme=dark" />
 </p>
@@ -66,4 +66,14 @@ currently reading: <https://psycnet.apa.org/record/2007-10372-002>
   <a href="https://www.linkedin.com/in/skuwar">
     <img src="https://img.shields.io/badge/LinkedIn-Siddhant%20Kuwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+#### graph:
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantkuwar&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"
+    width="95%"
+    alt="GitHub contribution activity graph"
+  />
 </p>
