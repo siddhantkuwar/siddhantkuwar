@@ -2,24 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Siddhant%20Kuwar&fontAlign=50&fontAlignY=38&fontSize=48&desc=Student&descAlign=50&descAlignY=58&animation=fadeIn" alt="Siddhant Kuwar banner" />
 </p>
 
-## Current Build
+## About
+
+Hi! I'm Siddhant, I'm a 3rd year computer science student and I want to help computers see the world as well as find what doesn’t fit, then understand why. 
+
+# Current Build
 
 project: Battry
 <a href="https://github.com/siddhantkuwar/battry-app">
   <img src="https://img.shields.io/badge/repo-view-0d1117?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-I'm exploring whether burnout can be detected before it happens
-
-interests:
-  - ML infrastructure
-  - computer vision
-  - backend systems
-  - applied AI
-  - trading systems
-
-
-## GitHub Activity
+I'm exploring whether burnout can be detected before it happens,
+currently reading: <https://psycnet.apa.org/record/2007-10372-002>
 
 <p align="center">
   <img
@@ -29,7 +24,7 @@ interests:
   />
 </p>
 
-## Pac-Man Contribution Graph
+# Pac-Man Contribution Graph
 
 <p align="center">
   <picture>
@@ -39,7 +34,7 @@ interests:
   </picture>
 </p>
 
-## Tech Stack
+# Tech Stack
 
 <h4>Languages</h4>
 <p>
