@@ -10,7 +10,7 @@ Currently building systems around anomaly detection, backend infrastructure, and
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantkuwar&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"
     width="95%"
     alt="GitHub contribution activity graph"
   />
@@ -20,9 +20,9 @@ Currently building systems around anomaly detection, backend infrastructure, and
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man eating GitHub contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhantkuwar/siddhantkuwar/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddhantkuwar/siddhantkuwar/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating GitHub contributions" src="https://raw.githubusercontent.com/siddhantkuwar/siddhantkuwar/output/pacman-contribution-graph-dark.svg">
   </picture>
 </p>
 
