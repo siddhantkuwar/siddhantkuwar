@@ -6,7 +6,7 @@
 
 Hi! I'm Siddhant, I'm a 3rd year computer science student and I want to help computers see the world as well as find what doesn’t fit, then understand why. 
 
-# Current Build
+### Current Build
 
 project: Battry
 <a href="https://github.com/siddhantkuwar/battry-app">
@@ -16,6 +16,8 @@ project: Battry
 I'm exploring whether burnout can be detected before it happens,
 currently reading: <https://psycnet.apa.org/record/2007-10372-002>
 
+### cool little contributions visualization
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantkuwar&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"
@@ -23,8 +25,6 @@ currently reading: <https://psycnet.apa.org/record/2007-10372-002>
     alt="GitHub contribution activity graph"
   />
 </p>
-
-# Pac-Man Contribution Graph
 
 <p align="center">
   <picture>
@@ -34,7 +34,7 @@ currently reading: <https://psycnet.apa.org/record/2007-10372-002>
   </picture>
 </p>
 
-# Tech Stack
+## Tech Stack
 
 <h4>Languages</h4>
 <p>
@@ -56,7 +56,7 @@ currently reading: <https://psycnet.apa.org/record/2007-10372-002>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vercel&theme=dark" />
 </p>
 
-## Connect
+## connect with me!
 
 <p align="center">
   <a href="mailto:skuwar@ucsd.edu">
