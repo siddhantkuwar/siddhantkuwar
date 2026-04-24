@@ -4,21 +4,10 @@
 
 ## Current Build
 
-```yaml
+yaml
 project: Battry
-focus:
-  - AI-assisted health and productivity systems
-  - backend architecture
-  - FastAPI + Python services
-  - event parsing and categorization
-  - lightweight ML inference
 
-learning:
-  - production backend patterns
-  - model training and deployment
-  - data pipelines
-  - system design
-  - clean product architecture
+I'm exploring whether burnout can be detected before it happens
 
 interests:
   - ML infrastructure
@@ -27,8 +16,6 @@ interests:
   - applied AI
   - trading systems
 
-direction: "Build useful systems first. Make them intelligent second."
-```
 
 ## GitHub Activity
 
