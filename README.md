@@ -28,22 +28,22 @@ currently reading: <https://psycnet.apa.org/record/2007-10372-002>
 
 <h4>Languages</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts&theme=dark" />
 </p>
 
 <h4>AI / ML</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" />
 </p>
 
 <h4>Backend</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,docker,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,supabase,postgres,docker,linux,git&theme=dark" />
 </p>
 
 <h4>Frontend</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,figma,vercel&theme=dark" />
 </p>
 
 ## cool little viz ↓
