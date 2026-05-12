@@ -14,7 +14,7 @@ connect with me!
   </a>
 </p>
 
-## Current Build
+## Current Builds
 
 project: Battry
 <a href="https://github.com/siddhantkuwar/battry-app">
@@ -23,6 +23,11 @@ project: Battry
 
 I'm exploring whether burnout can be detected before it happens,
 currently reading: <https://psycnet.apa.org/record/2007-10372-002>
+
+
+project: SK OS
+
+building a personalized system that tracks everything I do and tells me where I'm lacking using signal scores
 
 ## Tech Stack
 
