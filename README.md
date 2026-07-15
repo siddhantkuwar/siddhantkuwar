@@ -1,6 +1,6 @@
 ## About
 
-Hi! I'm Siddhant, I'm a 3rd year computer science student and I want to help computers see the world as well as find what doesn’t fit, then understand why. 
+Hi! I'm Siddhant, I'm a 3rd year computer science student who enjoys learning and building systems
 
 connect with me!
 
@@ -16,14 +16,18 @@ connect with me!
 
 ## Current Builds
 
-project: Battry
+
+
+<!-- project: Battry
 <a href="https://github.com/siddhantkuwar/battry-app">
   <img src="https://img.shields.io/badge/repo-view-0d1117?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 I'm exploring whether burnout can be detected before it happens,
-currently reading: <https://psycnet.apa.org/record/2007-10372-002>
+currently reading: <https://psycnet.apa.org/record/2007-10372-002> -->
+project: MiniServe
 
+local LM inference engine on Apple silicon
 
 project: SK OS
 
