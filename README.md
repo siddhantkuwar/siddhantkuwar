@@ -33,7 +33,7 @@ project: SK OS
 
 building a personalized system that tracks everything I do and tells me where I'm lacking using signal scores
 
-## Tech Stack
+<!-- ## Tech Stack
 
 <h4>Languages</h4>
 <p>
@@ -53,9 +53,9 @@ building a personalized system that tracks everything I do and tells me where I'
 <h4>Frontend</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=react,figma,vercel&theme=dark" />
-</p>
+</p> -->
 
-## cool little viz ↓
+## Pacman
 
 <p align="center">
   <picture>
