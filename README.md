@@ -29,7 +29,7 @@ project: MiniServe
 
 local LM inference engine on Apple silicon
 
-project: SK OS
+project: Daymark
 
 building a personalized system that tracks everything I do and tells me where I'm lacking using signal scores
 
@@ -55,7 +55,7 @@ building a personalized system that tracks everything I do and tells me where I'
   <img src="https://skillicons.dev/icons?i=react,figma,vercel&theme=dark" />
 </p> -->
 
-## Pacman
+## Pacman Commit Graph
 
 <p align="center">
   <picture>
