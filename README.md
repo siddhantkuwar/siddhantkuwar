@@ -29,6 +29,7 @@ project: MiniServe
 
 local LM inference engine on Apple silicon
 
+
 project: Daymark
 
 building a personalized system that tracks everything I do and tells me where I'm lacking using signal scores
