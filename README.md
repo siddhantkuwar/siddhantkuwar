@@ -25,6 +25,7 @@ connect with me!
 
 I'm exploring whether burnout can be detected before it happens,
 currently reading: <https://psycnet.apa.org/record/2007-10372-002> -->
+
 project: MiniServe
 
 local LM inference engine on Apple silicon
@@ -32,7 +33,12 @@ local LM inference engine on Apple silicon
 
 project: Daymark
 
-building a personalized system that tracks everything I do and tells me where I'm lacking using signal scores
+building a personalized system that tracks everything I do and adapts to me
+
+
+project: Plywise
+
+attempting to open source the chess.com game analysis for local analysis
 
 <!-- ## Tech Stack
 
