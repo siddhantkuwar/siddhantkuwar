@@ -60,7 +60,7 @@ attempting to open source the chess.com game analysis for local analysis
 <h4>Frontend</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=react,figma,vercel&theme=dark" />
-</p> -->
+</p> 
 
 ## Pacman Commit Graph
 
@@ -71,4 +71,4 @@ attempting to open source the chess.com game analysis for local analysis
     <img alt="Pac-Man eating GitHub contributions" src="https://raw.githubusercontent.com/siddhantkuwar/siddhantkuwar/output/pacman-contribution-graph-dark.svg">
   </picture>
 </p>
-
+-->
