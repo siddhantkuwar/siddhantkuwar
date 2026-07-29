@@ -38,7 +38,7 @@ building a personalized system that tracks everything I do and adapts to me
 
 project: Plywise
 
-attempting to open source the chess.com game analysis for local analysis
+attempting to open source the chess.com game analysis and adding personal intelligence
 
 <!-- ## Tech Stack
 
